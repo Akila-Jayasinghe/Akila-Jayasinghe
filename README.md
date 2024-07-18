@@ -16,13 +16,13 @@
   <tr>
     <td>
       
-      - 🔭 I’m currently working on ---> Java & OOP
+      - 🔭 I’m currently working on   ---> Java & OOP
       
-      - 🌱 I’m currently learning ---> C++, Python, PHP & SQL
+      - 🌱 I’m currently learning     ---> C++, Python, PHP & SQL
       
-      - 🤝 I’m looking for help with ---> Java & OOP
+      - 🤝 I’m looking for help with  ---> Java & OOP
       
-      - 📫 How to reach me ---> akilajayasingheofficial@gmail.com
+      - 📫 How to reach me            ---> akilajayasingheofficial@gmail.com
 </td>
     <td>
 <p>
