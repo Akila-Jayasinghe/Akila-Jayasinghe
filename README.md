@@ -17,14 +17,9 @@
       
       - 📫 How to reach me **akilajayasingheofficial@gmail.com**
       
-    
-    
-    
   </tr>
 </table>
-
-
-      <img align="right" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/developer.webp" alt="akila jayasinghe" height="300" width="533" />
+<img align="right" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/developer.webp" alt="akila jayasinghe" height="300" width="533" />
 
 
 
