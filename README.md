@@ -1,3 +1,6 @@
+<p align="center">
+<img align="center" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/pp%3Djpg2.jpg" alt="akila jayasinghe" height="150" width="150" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Akila Jayasinghe</h1>
 <h3 align="center">A passionate to learn about AI & System development from Sri Lanka</h3>
