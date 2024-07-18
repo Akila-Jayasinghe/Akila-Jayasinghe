@@ -5,7 +5,8 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Akila Jayasinghe</h1>
-<h3 align="center">A passionate to learn about AI & System development from Sri Lanka</h3>
+<h3 align="center">A passionate to learn about AI & System development 
+  and I'm from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akila-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akila-jayasinghe" /> </p>
 
