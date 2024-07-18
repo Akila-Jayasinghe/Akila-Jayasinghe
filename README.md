@@ -5,14 +5,29 @@
 
 ---
 
-- 🔭 I’m currently working on **Java & OOP**
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akila jayasinghe" height="50" width="50" />
+<table>
+  <tr>
+    <td>
+      
+      - 🔭 I’m currently working on **Java & OOP**
+      
+      - 🌱 I’m currently learning **C++, Python, PHP & SQL**
+      
+      - 🤝 I’m looking for help with **Java & OOP**
+      
+      - 📫 How to reach me **akilajayasingheofficial@gmail.com**
+      
+    
+    
+    
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **C++, Python, PHP & SQL**
 
-- 🤝 I’m looking for help with **Java & OOP**
+      <img align="right" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/developer.webp" alt="akila jayasinghe" height="300" width="533" />
 
-- 📫 How to reach me **akilajayasingheofficial@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
