@@ -14,17 +14,17 @@
 
 <table border="1">
   <tr>
-    <td border="1">
+    <td>
       
-      - 🔭 I’m currently working on **Java & OOP**
+      - 🔭 I’m currently working on ---> Java & OOP
       
-      - 🌱 I’m currently learning **C++, Python, PHP & SQL**
+      - 🌱 I’m currently learning ---> C++, Python, PHP & SQL
       
-      - 🤝 I’m looking for help with **Java & OOP**
+      - 🤝 I’m looking for help with ---> Java & OOP
       
-      - 📫 How to reach me **akilajayasingheofficial@gmail.com**
+      - 📫 How to reach me ---> akilajayasingheofficial@gmail.com
 </td>
-    <td border="1">
+    <td>
 <p>
 <img align="center" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/developer.webp" alt="akila jayasinghe" height="257" width="457" />
 </p>
