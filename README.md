@@ -16,11 +16,9 @@
   <tr>
     <td>
       
-      - 🔭 I’m currently working on    ---> Java & OOP
+      - 🔭 I’m currently learning      ---> OOP with Java, C++, Python, PHP & SQL
 
       - 🌱 Learning Everything related ---> AI & software engineering
-      
-      - 🌱 I’m currently learning      ---> C++, Python, PHP & SQL
       
       - 🤝 I’m looking for help with   ---> Java & OOP
       
