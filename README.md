@@ -34,9 +34,12 @@
 </table>
 </br>
 
-<p align="center" style="margin-right:0px; padding-right:0px">
-  <img src="https://github-readme-stats.vercel.app/api?username=akila-jayasinghe&theme=algolia"><img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-jayasinghe&theme=algolia">
+<p style="margin-right:0px; padding-right:0px">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akila-jayasinghe&theme=algolia">
+  <img align="right" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-jayasinghe&theme=algolia">
 </p>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
