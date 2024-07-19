@@ -35,8 +35,8 @@
 </br>
 
 <p align="center" style="margin-right:0px; padding-right:0px">
-  <img src="https://github-readme-stats.vercel.app/api?username=akila-jayasinghe&theme=algolia" width="400" >
-  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-jayasinghe&theme=algolia" height="173">
+  <img src="https://github-readme-stats.vercel.app/api?username=akila-jayasinghe&theme=algolia" width="40%" >
+  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-jayasinghe&theme=algolia" width="44%">
 </p>
 
 
