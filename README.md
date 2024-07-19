@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/PP-png.png" alt="akila jayasinghe" height="150" width="150" />
+<img align="center" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/GIF-240720_032955.gif" height="150" width="150" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
