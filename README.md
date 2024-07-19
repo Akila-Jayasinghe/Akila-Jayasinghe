@@ -16,11 +16,13 @@
   <tr>
     <td>
       
-      - 🔭 I’m currently learning      ---> OOP with Java, C++, Python, PHP & SQL
+      - 🔭 I’m currently learning      ---> OOP with Java
 
-      - 🌱 Learning Everything related ---> AI & software engineering
+      - 🌱 I already studied about     ---> C++, Python, PHP & SQL
+
+      - 🔭 Learning Everything related ---> AI & software engineering
       
-      - 🤝 I’m looking for help with   ---> Java & OOP
+      - 🤝 I’m looking for help with   ---> OOP with Java
       
       - 📫 How to reach me             ---> akilajayasingheofficial@gmail.com
 </td>
