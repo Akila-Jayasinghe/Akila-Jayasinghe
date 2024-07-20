@@ -1,19 +1,29 @@
-<p align="center">
-<img align="center" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/GIF-240720_032955.gif" height="150" width="150" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi 👋, I'm Akila Jayasinghe</h1>
-<h3 align="center">A passionate to learn about AI & System development 
-  and I'm from Sri Lanka</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akila-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akila-jayasinghe" /> </p>
+<table align="center" width="100%">
+  <tr>
+    <td width="70%" height="10%" align="center">
+      <h1 align="center">Hi 👋, I'm Akila Jayasinghe </h1>
+      <h2>A passionate to learn about AI & System development.</h2><h4>I'm from Sri Lanka.</h4>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=akila-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akila-jayasinghe">
+      </p>
+    </td>
+    <td width="30%" height="10%" align="center">
+      <img src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/GIF-240720_032955.gif" height="250" width="250" >
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table border="1">
   <tr>
+    <td>
+      <p>
+        <img align="center" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/developer.webp" alt="akila jayasinghe" height="257" width="457" />
+      </p>
+    </td>
     <td>
       
       - 🔭 I’m currently learning      ---> OOP with Java
@@ -25,12 +35,9 @@
       - 🤝 I’m looking for help with   ---> OOP with Java
       
       - 📫 How to reach me             ---> akilajayasingheofficial@gmail.com
-</td>
-    <td>
-<p>
-<img align="center" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/developer.webp" alt="akila jayasinghe" height="257" width="457" />
-</p>
-</tr> 
+      
+  </td>
+  </tr> 
 </table>
 </br>
 
@@ -39,15 +46,13 @@
   <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-jayasinghe&theme=algolia" width="44%">
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <h2 align="left"> 💻 Languages and Tools:</h2>
+
 <table align="center">
   <tr>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
@@ -93,16 +98,16 @@
 
   <tr>
     <td align="center" width="96">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML"/>
-        </a>
-        <br>HTML
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML"/>
+      </a>
+      <br>HTML
     </td>
       <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="48" height="48"/>
-      </a>
-      <br>CSS
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="48" height="48"/>
+        </a>
+        <br>CSS
     </td>
     <td align="center" width="96">
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
@@ -111,10 +116,10 @@
       <br>PhotoShop
     </td>
       <td align="center"  width="96">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="48" height="48"/>
-      </a>
-      <br>Illustrator
+        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="48" height="48"/>
+        </a>
+        <br>Illustrator
     </td>
       <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -137,35 +142,44 @@
   </tr>
 </table>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <h2> 📊 Github Stats ....</h2>
 <p align="center" style="margin-right:0px; padding-right:0px">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akila-jayasinghe&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akila-jayasinghe&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akila-jayasinghe&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akila-jayasinghe&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akila-jayasinghe&theme=solarized_dark&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akila-jayasinghe&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akila-jayasinghe&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akila-jayasinghe&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akila-jayasinghe&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akila-jayasinghe&theme=solarized_dark&utcOffset=8">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Connect with me:
-<p align="center" style="margin-right:10px; padding-right:10px">
-<a href="https://fb.com/akila jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akila jayasinghe" height="50" width="50" /></a>
-<a href="https://instagram.com/mr__akila_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__akila_" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/akilajayasinghe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akilajayasinghe1" height="50" width="50" /></a>
-<a href="https://twitter.com/jayasinghe_vpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayasinghe_vpa" height="50" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akilajayask36p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akilajayask36p" height="50" width="50" /></a>
-<a href="https://discord.gg/Mr_Akila_Jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mr_Akila_Jayasinghe" height="50" width="50" /></p>
+<p align="center">
+  <a href="https://fb.com/akila jayasinghe" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akila jayasinghe" height="50" width="50" />
+  </a>
+  <a href="https://instagram.com/mr__akila_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__akila_" height="50" width="50" />
+  </a>
+  <a href="https://www.hackerrank.com/akilajayasinghe1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akilajayasinghe1" height="50" width="50" />
+  </a>
+  <a href="https://twitter.com/jayasinghe_vpa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayasinghe_vpa" height="50" width="50" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/akilajayask36p" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akilajayask36p" height="50" width="50" />
+  </a>
+  <a href="https://discord.gg/Mr_Akila_Jayasinghe" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mr_Akila_Jayasinghe" height="50" width="50" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align='left'>Thank You ...</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
-</p>	
- 
-<br>
+</p>
