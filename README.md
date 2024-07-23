@@ -2,20 +2,21 @@
 <h3 align="center">A passionate to learn about AI & System development.</h3>
 <h5 align="center">I'm from Sri Lanka.</h5>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=akila-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akila-jayasinghe"></p>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently learning      ---> OOP with Java            <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+- 🔭 I’m currently learning ----------> **OOP with Java**            <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🌱 I already studied about     ---> C++, Python, PHP & SQL
+- 🌱 I already studied about --------> **C++, Python, PHP & SQL**
 
-- 🔭 Learning Everything related ---> AI & software engineering
+- 🔭 Learning Everything related ---> **AI & software engineering**
       
-- 🤝 I’m looking for help with   ---> OOP with Java
+- 🤝 I’m looking for help with ------> **OOP with Java**
       
-- 📫 How to reach me             ---> akilajayasingheofficial@gmail.com
+- 📫 How to reach me --------------> **akilajayasingheofficial@gmail.com**
 
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
