@@ -1,52 +1,21 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi 👋, I'm Akila Jayasinghe</h1>
+<h3 align="center">A passionate to learn about AI & System development.</h3>
+<h5 align="center">I'm from Sri Lanka.</h5>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=akila-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akila-jayasinghe"></p>
+<br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="70%" height="10%" align="center">
-      <h1 align="center">Hi 👋, I'm Akila Jayasinghe </h1>
-      <h2>A passionate to learn about AI & System development.</h2><h4>I'm from Sri Lanka.</h4>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=akila-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akila-jayasinghe">
-      </p>
-    </td>
-    <td width="30%" height="10%" align="center">
-      <img src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/GIF-240720_032955.gif" height="250" width="250" >
-    </td>
-  </tr>
-</table>
+- 🔭 I’m currently learning      ---> OOP with Java            <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🌱 I already studied about     ---> C++, Python, PHP & SQL
 
-<table border="1">
-  <tr>
-    <td>
-      <p>
-        <img align="center" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/developer.webp" alt="akila jayasinghe" height="257" width="457" />
-      </p>
-    </td>
-    <td>
+- 🔭 Learning Everything related ---> AI & software engineering
       
-      - 🔭 I’m currently learning      ---> OOP with Java
-
-      - 🌱 I already studied about     ---> C++, Python, PHP & SQL
-
-      - 🔭 Learning Everything related ---> AI & software engineering
+- 🤝 I’m looking for help with   ---> OOP with Java
       
-      - 🤝 I’m looking for help with   ---> OOP with Java
-      
-      - 📫 How to reach me             ---> akilajayasingheofficial@gmail.com
-      
-  </td>
-  </tr> 
-</table>
-</br>
+- 📫 How to reach me             ---> akilajayasingheofficial@gmail.com
 
-<p align="center" style="margin-right:0px; padding-right:0px">
-  <img src="https://github-readme-stats.vercel.app/api?username=akila-jayasinghe&theme=algolia" width="40%" >
-  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-jayasinghe&theme=algolia" width="44%">
-</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
@@ -144,14 +113,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2> 📊 Github Stats ....</h2>
-<p align="center" style="margin-right:0px; padding-right:0px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akila-jayasinghe&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akila-jayasinghe&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akila-jayasinghe&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akila-jayasinghe&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akila-jayasinghe&theme=solarized_dark&utcOffset=8">
-</p>
+<h3>My GitHub Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akila-jayasinghe&show_icons=true&theme=dark&locale=en&layout=compact" alt="akila" /></p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akila-jayasinghe&show_icons=true&theme=dark&locale=en" alt="akila" />
+</p><img align="right" alt="Coding" width="300" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/GIF-240720_032955.gif"style="width:200px; height:200px; background-color:black; border-radius:50%; display:flex; justify-content:center; align-items:center; overflow:hidden;">
+
+<br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-jayasinghe&theme=dark" alt="akila" /></p>
+<br><br><br><br><br><br><br><br><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
