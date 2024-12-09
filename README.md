@@ -117,10 +117,9 @@
 <h3>My GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akila-jayasinghe&show_icons=true&theme=dark&locale=en&layout=compact" alt="akila" /></p><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akila-jayasinghe&show_icons=true&theme=dark&locale=en" alt="akila" />
-</p><img align="right" alt="Coding" width="300" src="https://github.com/Akila-Jayasinghe/Akila-Jayasinghe/blob/main/GIF-240720_032955.gif"style="width:200px; height:200px; background-color:black; border-radius:50%; display:flex; justify-content:center; align-items:center; overflow:hidden;">
 
 <br><br><br><br><br><br><br><br>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-jayasinghe&theme=dark" alt="akila" /></p>
 <br><br><br><br><br><br><br><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
