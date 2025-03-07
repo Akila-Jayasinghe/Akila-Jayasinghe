@@ -114,15 +114,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akila-jayasinghe&show_icons=true&theme=dark&locale=en&layout=compact" alt="akila" /></p><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akila-jayasinghe&show_icons=true&theme=dark&locale=en" alt="akila" />
-
-<br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-jayasinghe&theme=dark" alt="akila" /></p>
-<br><br><br><br><br><br><br><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Connect with me:
 <p align="center">
   <a href="https://fb.com/akila jayasinghe" target="blank">
