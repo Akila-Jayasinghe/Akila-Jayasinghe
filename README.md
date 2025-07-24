@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akila Jayasinghe</h1>
 <h3 align="center">A passionate about full stack development development.</h3>
 <h5 align="center">I'm from Sri Lanka.</h5>
+<h5 align="center">*akilajayasingheofficial@gmail.com**</h5>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=akila-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akila-jayasinghe"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 📫 How to reach me --------------> **akilajayasingheofficial@gmail.com**
 
 
 <br>
