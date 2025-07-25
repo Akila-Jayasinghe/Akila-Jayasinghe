@@ -11,17 +11,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akila-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akila-jayasinghe" />
 </p>
+<hr>
 <!--
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 -->
-
-## 🛠️ Tech Stack
-
 <table align="center">
   <tr>
-    <td rowspan="4" align="center" width="150"><font size="25px">🛠️<br>Tech<br>Stack</font></td>
+    <td rowspan="4" align="center" width="160">
+      <div align="center">
+        <h1>🛠️<br>Tech<br>Stack</h1>
+      </div>
+    </td>
     <td><b>👨‍💻 Programming Languages</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
@@ -70,4 +72,5 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
 </div>
 -->
+---
 <h2 align="center">Thank you for visiting! 😊</h2>
